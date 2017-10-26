@@ -1,0 +1,7 @@
+= Giumo's AutoHotKey Productivity Suite
+
+Giumo uses GNOME Shell. Giumo wants he's Windows 10 to behave like GNOME Shell.
+
+== License
+Public Domain
+
